@@ -1,2 +1,2 @@
 # Code-Extractor
-It extracts the code form any yt viodeo lecture
+It extracts the code form any yt video lecture
