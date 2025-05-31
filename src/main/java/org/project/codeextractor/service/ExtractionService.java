@@ -43,7 +43,7 @@ public class ExtractionService {
     }
 
     public String extractCodeFromYoutubeUrl(String youtubeUrl) {
-        //  a dummy message to test functionality
+       
         return "Code extracted from URL: " + youtubeUrl;
     }
 }
