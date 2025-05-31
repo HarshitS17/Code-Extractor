@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>YouTube Code Extractor</title>
+</head>
+<body>
+  <h1>Enter YouTube Video URL</h1>
+  <input type="text" id="youtubeUrl" placeholder="Paste URL here" size="60">
+  <button onclick="sendUrl()">Extract Code</button>
+  <pre id="result"></pre>
+
+  <script>
+    function sendUrl() {
+      const url = document.getElementById("youtubeUrl").value;
+
+      fetch('/api/code/extract', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded'
+        },
+        body: new URLSearchParams({ youtubeUrl: url })
+      })
+      .then(res => res.text())
+      .then(data => {
+        document.getElementById("result").textContent = data;
+      })
+      .catch(err => {
+        alert("Error: " + err);
+        console.error(err);
+      });
+    }
+  </script>
+</body>
+</html>

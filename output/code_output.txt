@@ -1,0 +1,2183 @@
+--- frame_0002.jpg ---
+eee *Python 3.7.0 Shell*
+
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+
+[Clang 6.@ Cclang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "License()" for more information.
+>>> # My Comment
+
+wun
+
+>>>
+
+Ln:5 Col: 7
+
+--- frame_0003.jpg ---
+ee@ Python 3.7.0 Shell
+
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+
+[Clang 6.@ (clang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "License()" for more information.
+>>> # My Comment
+
+>>> uu"
+
+Jdhjfjdhfjd r
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+te fjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>>
+
+Ln: 11 Col: 4
+
+--- frame_0004.jpg ---
+eee *Python 3.7.0 Shell*
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+
+[Clang 6.@ Cclang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "license()" for more information.
+>>> # My Comment
+
+>>>
+
+Jdhjfjdhfjd r
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+>> 1-2 eee
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4|
+
+Ln: 17 Col: 7
+
+--- frame_0005.jpg ---
+eee *Python 3.7.0 Shell*
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+
+[Clang 6.@ (clang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "License()" for more information.
+>>> # My Comment
+
+Sa 7"
+
+Jdhjfjdhfjd LS
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+>> 1-2 Eee
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a =
+
+Ln: 21 Col: 8
+
+--- frame_0006.jpg ---
+eee *Python 3.7.0 Shell*
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+
+[Clang 6.@ (clang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "license()" for more information.
+>>> # My Comment
+
+>>>
+
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhj fjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+>> 1-2 eee
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3 x
+
+2.0
+
+>>> a = "Hello World"
+
+Ln: 21 Col: 21
+
+--- frame_0007.jpg ---
+eee Python 3.7.0 Shell
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+[Clang 6.@ (clang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "license()" for more information.
+>>> # My Comment
+
+>>>
+
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello, World"
+
+>>>
+
+Ln: 22 Col: 4
+
+--- frame_0008.jpg ---
+eee Python 3.7.0 Shell
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+[Clang 6.@ Cclang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "license()" for more information.
+>>> # My Comment
+
+>>>
+
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+a2
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello, World"
+
+>>> a
+
+"Hello World'
+
+>>>
+
+Ln: 24 Col: 4
+
+--- frame_0009.jpg ---
+e0e@ *Python 3.7.0 Shell*
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+[Clang 6.@ Cclang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "license()" for more information.
+>>> # My Comment
+
+>>>
+
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+a2
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hel Lo, World"
+
+>>> a
+
+"Hello World'
+
+>>> b = ["Hello WOrl1]
+
+Ln: 24 Col: 20
+
+--- frame_0010.jpg ---
+eee Python 3.7.0 Shell
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+[Clang 6.@ Cclang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "license()" for more information.
+>>> # My Comment
+
+Soe Nr
+
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+SyntaxError: can't assign to Literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World'
+
+>>> by=
+
+>>>
+
+Ln: 24 Col: 34
+
+--- frame_0011.jpg ---
+eee Python 3.7.0 Shell
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+[Clang 6.@ Cclang-600.0.57)] on darwin
+
+Type "copyright", "credits" or "license()" for more information.
+>>> # My Comment
+
+>>> "un
+
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World'
+
+>>> b = ["Hello WOrld", "Francis"]
+
+>>> rh
+
+Ln: 24 Col: 22
+
+--- frame_0012.jpg ---
+eee Python 3.7.0 Shell
+Python 3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24)
+[Clang 6.@ Cclang-600.0.57)] on darwin
+Type "copyright", "credits" or "license()" for more information.
+>>> # My Comment
+>>>
+Jdhjfjdhfjd
+djfhdjfhjdf
+df jhdjfhjfd
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+>>> 142
+3
+>> 1-2 Eee
+SyntaxError: can't assign to literal
+>>> 1-2
+-1
+>>> 3*4
+12
+>>> 6/3
+2.0
+>>> a = "Hello World"
+>>> a
+"Hello World'
+>>> b = ["Hello WOrld", "Francis"]
+>>> b *
+['Hello WOrld', 'Francis"]
+>>> |
+Ln: 27 Col: 4
+
+--- frame_0013.jpg ---
+ese Python 3.7.0 Shell
+Type "copyright", "credits" or "License()" for more information.
+>>> # My Comment
+
+>>> "nn
+
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+2 __EE—E—————_—_—_—_—————— eee
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World'
+
+>>> b = ["Hello WOrld", "Francis"]
+
+>>> b
+
+['Hello WOrld', 'Francis']
+>>> b[1]
+
+‘Francis’ {
+
+>>>
+
+Ln: 29 Col: 4
+
+--- frame_0014.jpg ---
+eee *Python 3.7.0 Shell*
+Type "copyright", "credits" or "License()" for more information.
+>>> # My Comment
+
+>>> omen
+
+jJdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhf jd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+> 1 —— eee
+SyntaxError: can't assign to Literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World" r
+
+>>> a
+
+"Hello World'
+
+>>> b = ["Hello WOrld", "Francis"]
+
+>>> b
+
+['Hello WOrld', 'Francis']
+
+>>> b[1]
+
+"Francis'
+
+>>> b + []
+
+Ln: 29 Col:9
+
+--- frame_0021.jpg ---
+eee *Python 3.7.0 Shell*
+
+Sm TEN
+
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhj fjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3 !
+>> 1-2 eee
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World'
+
+>>> b = ["Hello WOrld", "Francis"]
+
+>>> b
+
+['Hello WOrld', 'Francis"] x
+
+>>> b[1]
+
+"Francis'
+
+>>> b + [1,2,3,4,5]
+
+['Hello WOrld', 'Francis', 1, 2, 3, 4, 5]
+
+>>> ¢ = { "favcolour":"hello world" }
+
+Ln: 31 Col: 34
+
+--- frame_0022.jpg ---
+eee *Python 3.7.0 Shell*
+Jdhjfjdhfjd
+
+djfhdjfhjdf
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+>) |  _ ———
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World'
+
+>>> b = ["Hello WOrld", "Francis"]
+
+>>> b
+
+['Hello WOrld', 'Francis'] Ls
+>>> b[1]
+
+"Francis'
+
+>>> b + [1,2,3,4,5]
+
+[Hello WOrld', “Francis",. 1,..2, 3, 4, 5]
+>>> c = { "favcolour": "hello world" }
+
+in: 32 Cok 4C.
+
+--- frame_0023.jpg ---
+eee Python 3.7.0 Shell
+
+df jhdjfhjfd
+
+"\nJdhjfjdhfjd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 14+2
+
+3
+
+>> 1- eee
+SyntaxError: can't assign to literal
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World'
+
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+
+['Hello WOrld', 'Francis']
+
+>>> b[1]
+
+"Francis'
+
+>>> b + [1,2,3,4,5]
+
+['Hello WOrld', 'Francis', 1, 2, 3, 4, 5]
+>>> c = { "favcolour":"hello world" }
+>>> c["favcolour"]
+
+"hello world'
+
+>>> —
+
+Ln: 34 Col: 4
+
+--- frame_0024.jpg ---
+eee Python 3.7.0 Shell
+df jhdjfhjfd
+
+"\nJdhjfjdhf jd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+>>> 2
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World' h
+>>> b = ["Hello WOrld", "Francis"]
+
+>>> b
+
+['Hello WOrld', 'Francis']
+
+>>> b[1]
+
+"Francis'
+
+>>> b + [1,2,3,4,5]
+
+[E"Hello WOrld', ‘Francis",..1;.:2, 3; 4, 5]
+
+>>> c = { "favcolour":"hello world" }
+
+>>> c["favcolour" ]
+
+"hello world'
+
+>>> |
+
+Ln: 34 Col: 4
+
+--- frame_0025.jpg ---
+eee *Python 3.7.0 Shell*
+df jhdjfhjfd
+"\nJdhjfjdhf jd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+>>> 14+2
+3
+>> 1-2 nee
+SyntaxError: can't assign to literal
+>>> 1-2
+-1
+>>> 3*4
+12
+>>> 6/3
+2.0
+>>> a = "Hello World"
+>>> a
+"Hello World' rh
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis']
+>>> b[1]
+"Francis"
+>>> b + [1,2,3,4,5]
+['Hello WOrld', 'Francis', 1, 2, 3, 4, 5]
+>>> c = { "favcolour":"hello world" }
+>>> c["favcolour" ]
+"hello world'
+>>> d =
+Ln: 34 Col:8
+
+--- frame_0026.jpg ---
+eee *Python 3.7.0 Shell*
+df jhdjfhjfd
+
+"\nJdhjfjdhf jd\ndjfhdjfhjdf\ndfjhdjfhjfd\n'
+
+>>> 142
+
+3
+
+>> 1-2 Eee
+SyntaxError: can't assign to literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World' *
+>>> b = ["Hello WOrld", "Francis"]
+
+>>> b
+
+['Hello WOrld', 'Francis']
+
+>>> b[1]
+
+"Francis'
+
+>>> b + [1,2,3,4,5]
+
+['Hello WOrld', ‘Francis’, 1, 2, 3, 4, 5]
+
+>>> c = { "favcolour":"hello world" }
+
+>>> c["favcolour" ]
+
+"hello world'
+
+>>> d= ft 4;2;3,|}
+
+Ln: 34 Col: 16
+
+--- frame_0027.jpg ---
+eee Python 3.7.0 Shell
+
+>>> 142
+
+3
+
+>> 1 eee
+SyntaxError: can't assign to Literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+2.0
+>>> a = "Hello World"
+>>> a
+"Hello World'
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis'] x
+>>> b[1]
+‘Francis’
+>>> b + [1,2,3,4,5]
+L"Hello WOrld', ‘Francis’, 1; 2; 3, 4; 5]
+>>> c = { "favcolour":"hello world" }
+>>> c["favcolour"]
+"hello world’
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2, 3, 4, 5, 6}
+>>>
+Ln: 37 Col: 4
+
+--- frame_0028.jpg ---
+eee Python 3.7.0 Shell
+
+>>> 142
+
+3
+
+>>> 2
+SyntaxError: can't assign to Literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+>>> a = "Hello World"
+>>> a
+"Hello World'
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis']
+>>> b[1]
+"Francis'
+>>> b + [1,2,3,4,5]
+['Hello WOrld', 'Francis', 1, 2, 3, 4, 5]
+>>> c = { "favcolour":"hello world" }
+>>> c["favcolour"]
+"hello world'
+>>> d = { 1,2, SSUSISISISISIEN: Ly
+>>> d
+{1, 2 3, 4, 5; 6}
+>>>
+Ln: 34 Col: 34
+
+--- frame_0029.jpg ---
+eee Python 3.7.0 Shell
+>>> 142
+
+3
+
+SyntaxError: can't assign to Literal
+
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+>>> a = "Hello World"
+>>> a
+"Hello World'
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis']
+>>> b[1]
+"Francis' d
+>>> b + [1,2,3,4,5]
+['Hello WOrld', 'Francis', 1, 2, 3, 4, 5]
+>>> c = { "favcolour": "hello world" }
+>>> c["favcolour"]
+"hello world'
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2; 3, 4, 5; 6}
+>>>
+Ln: 37 Col: 4
+
+--- frame_0030.jpg ---
+e2ee *Python 3.7.0 Shell*
+3
+
+>>> 1=2
+
+SyntaxError: can't assign to literal
+>>> 1-2
+
+-1
+
+>>> 3*4
+
+12
+
+>>> 6/3
+
+2.0
+
+>>> a = "Hello World"
+
+>>> a
+
+"Hello World'
+
+>>> b = ["Hello WOrld", "Francis"]
+
+>>> b
+
+['Hello WOrld', 'Francis"]
+
+>>> b[1]
+
+"Francis'
+
+>>> b + [1,2,3,4,5] Ls
+
+['Hello WOrld', 'Francis', 1, 2, 3, 4, 5]
+>>> c = { "favcolour":"hello world" }
+>>> c["favcolour" ]
+
+"hello world'
+
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+
+>>> d
+
+{1, 2, 3, 4, 5, 6}
+
+>>> if 1 = 1:
+
+print
+
+Ln: 38 Col:8
+
+--- frame_0031.jpg ---
+eee *Python 3.7.0 Shell*
+
+>>> a = "Hello World"
+>>> a
+"Hello World'
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis']
+>>> b[1]
+"Francis'
+>>> b + [1,2,3,4,5]
+[E"Hello WOrtd',; “Francis', 1; 2; 3,5 45 5]
+>>> c = { "favcolour": "hello world" }
+>>> c["favcolour"]
+"hello world'
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2, 3, 4, 5, 6}
+soe if 1 == 1:
+
+printC"Of course")
+
+r
+
+Of course
+>>> If 1. == 2:
+printC"Obviously not")
+Ln: 43 Col: 22
+
+--- frame_0032.jpg ---
+eee Python 3.7.0 Shell
+2.0
+>>> a = "Hello World"
+>>> a
+"Hello World'
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis"]
+>>> b[1]
+"Francis'
+>>> b + [1,2,3,4,5]
+['Hello WOrld', 'Francis', 1, 2, 3, 4, 5]
+>>> c = { "favcolour": "hello world" }
+>>> c["favcoLlour"]
+"hello world'
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2, 3, 4, 5, 6}
+pe if 1.== 1:
+printCor course")
+
+Of course
+>>> if 1 ==
+printC"Obviously not")
+
+>>>
+
+Ln: 46 Col: 4
+
+--- frame_0033.jpg ---
+eee *Python 3.7.0 Shell*
+2.0
+>>> a = "Hello World"
+>>> a
+"Hello World'
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis"]
+>>> b[1]
+"Francis'
+>>> b + [1,2,3,4,5]
+["Hello WOrld', ‘Francis’, 1,. 2, 3, 4, 5]
+>>> c = { "favcolour": "hello world" }
+>>> c["favcolour"]
+"hello world'
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2, 3, 4, 5, 6}
+p> if 1.== 1:
+printC"Of course")
+
+k
+Of course
+>>> if 1 ==
+printC"Obviously not")
+
+>>> >=
+Ln: 46 Col: 6
+
+--- frame_0034.jpg ---
+eee *Python 3.7.0 Shell*
+2.0
+>>> a = "Hello World"
+>>> a
+"Hello World'
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis']
+>>> b[1]
+"Francis'
+>>> b + [1,2,3,4,5]
+["Hello WOrld', “Francis', 1,2, 3, 4, 5]
+>>> c = { "favcolour": "hello world" }
+>>> c["favcolour" ]
+"hello world'
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2, 3, 4, 5, 6}
+om TF 1. == 1:
+printC"Of course")
+
+af
+Of course
+>>> if 1 == 2:
+printC"Obviously not")
+
+>>>
+Ln: 46 Col: 4
+
+--- frame_0035.jpg ---
+eee *Python 3.7.0 Shell*
+>>> b = ["Hello WOrld", "Francis"]
+>>> b
+['Hello WOrld', 'Francis"]
+>>> b[1]
+"Francis'
+>>> b + [1,2,3,4,5]
+[Hello WOrld'; ‘Francis’, 1, 2, 3, 4; 5]
+>>> c = { "favcolour": "hello world" }
+>>> c["favcolour"]
+"hello world'
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2, 3, 4, 5, 6}
+poe If 1 == 1;
+printC"Of course")
+
+Of course
+>>> if 1 ==
+printC"Obviously not")
+r
+
+>>> True
+True
+>>> False
+False
+
+>>>
+Ln: 50 Col: 4
+
+--- frame_0036.jpg ---
+@e@ *Python 3.7.0 Shell*
+['Hello WOrld', 'Francis']
+
+>>> b[1]
+
+"Francis'
+
+>>> b + [1,2,3,4,5]
+
+['Hello WOrld', 'Francis', 1, 2, 3, 4, 5]
+
+>>> c = { "favcolour": "hello world" }
+
+>>> c["favcolour"]
+
+"hello world'
+
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+
+>>> d
+>>> if 1 == 1:
+
+printC"Of course")
+Of course
+
+>>> if 1 == 2:
+printC"Obviously not")
+
+>>> True N
+True
+
+>>> False
+
+False
+
+>>> True or False
+
+True
+
+>>> True and Fals
+Ln: 52 Col: 17
+
+--- frame_0037.jpg ---
+eee *Python 3.7.0 Shell*
+>>> c["favcolour"]
+"hello world'
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2, 3, 4, 5, 6}
+>>> if 1 == 1:
+printC"Of course")
+
+Of course
+poe AF 1. == 2:
+printC"Obviously not")
+
+>>> True
+
+True
+
+>>> False
+
+False
+
+>>> True or False
+
+True rh
+>>> True and False
+
+False
+
+>>> a
+
+"Hello World'
+
+>>> b
+
+['Hello WOrld', 'Francis"]
+
+Ln: 58 Col:0
+
+--- frame_0038.jpg ---
+eee Python 3.7.0 Shell
+>>> c["favcolour"]
+"hello world'
+>>> d = { 1,2,3,4,5,5,5,5,6,6,6,6 }
+>>> d
+{1, 2, 3, 4, 5, 6}
+soe Tf 1 == 1:
+printC"Of course")
+
+Of course
+>>> 1f 1 == 2:
+printC"Obviously not")
+
+>>> True
+
+True
+
+>>> False
+
+False
+
+>>> True or False
+True
+
+>>> True and False
+False
+
+>>> a
+
+"Hello World'
+
+>>> b
+
+['Hello WOrld', 'Francis"]
+>>>
+
+Ln: 58 Col: 4
+
+--- frame_0039.jpg ---
+ee@
+{1, 2, 3, 4, 5, 6}
+>>> if 1 == 1:
+printC"Of course")
+
+Of course
+>>> if 1 == 2:
+printC"Obviously not")
+
+>>> True
+
+True
+
+>>> False
+
+False
+
+>>> True or False
+True
+
+>>> True and False
+False
+
+>>> a
+
+"Hello World'
+
+>>> b
+
+['Hello WOrld', 'Francis"]
+>>> for item in list:
+
+KeyboardiInterrupt
+>>> for item in b:
+
+*Python 3.7.0 Shell*
+
+Ln: 62 Col:1
+
+--- frame_0040.jpg ---
+eee *Python 3.7.0 Shell*
+{1, 2, 3, 4, 5, 6}
+o>> if 1 == 1:
+
+printC"Of course")
+
+Of course
+>>> if 1 == 2:
+printC"Obviously not")
+
+>>> True
+
+True
+
+>>> False
+
+False
+
+>>> True or False
+True
+
+>>> True and False
+False
+
+>>> a
+
+"Hello World'
+
+>>> b
+
+['Hello WOrld', 'Francis"] »
+>>> for item in list:
+
+KeyboardInterrupt
+>>> for item in b:
+printCitem)
+Ln: 62 Col: 11
+
+--- frame_0047.jpg ---
+ee@ Python 3.7.0 Shell
+
+Q
+
+il
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+>>> x = 10
+
+>>> while x > Q:
+print(x)
+x-= 1
+
+{
+
+10
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+rd
+
+al
+
+>>>
+
+Ln: 97 Col: 4
+
+--- frame_0057.jpg ---
+eee Python 3.7.0 Shell
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def funcQ):
+print("Hello World") Ls
+
+>>> func)
+Hello World
+>>> func();funcd)
+Hello World
+Hello World
+>>>
+| Ln: 171 Col: 4
+
+--- frame_0058.jpg ---
+eee Python 3.7.0 Shell
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def funcQ):
+print("Hello World") Ls
+
+>>> func)
+Hello World
+>>> func();funcd)
+Hello World
+Hello World
+>>>
+Ln: 171 Col: 4
+
+--- frame_0059.jpg ---
+eee *Python 3.7.0 Shell*
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def funcQ):
+printC"Hello World") Ls
+
+>>> func)
+Hello World
+>>> func();funcd)
+Hello World
+Hello World
+>>> class
+Ln: 171 Col: 10
+
+--- frame_0060.jpg ---
+eee *Python 3.7.0 Shell*
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def funcQ):
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func); func)
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init_
+Ln: 172 Col: 13
+
+--- frame_0061.jpg ---
+eee *Python 3.7.0 Shell*
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def funcQ):
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func();funcQ)
+
+Hello World
+
+Hello World
+
+>>> class Person: k
+def __init__(self)
+
+Ln: 172 Col: 18
+
+--- frame_0062.jpg ---
+( 3m *Python 3.7.0 Shell*
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in List")
+
+Item not in list
+>>> def func():
+printC"Hello World")
+
+>>> func()
+Hello World
+>>> func();funcQ
+Hello World
+Hello World
+>>> class Person:
+def __init_(self):
+
+Ln: 173 Col: 2
+
+--- frame_0063.jpg ---
+eee Python 3.7.0 Shell
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def funcQ:
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func); funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def¥__init__(self):
+printC"New Person")
+
+>>>
+Ln: 176 Col: 4
+
+--- frame_0064.jpg ---
+eee Python 3.7.0 Shell
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def funcQ):
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func); func)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+printC"New Péson")
+
+>>>
+Ln: 176 Col: 4
+
+--- frame_0065.jpg ---
+eee Python 3.7.0 Shell
+>>>
+>>>
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def func):
+printC"Hello World")
+
+>>> func)
+
+Hello World
+
+>>> func();funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+print(C"New Person")
+
+>>> p = Person()
+New Person
+
+>>>
+Ln: 178 Col: 4
+
+--- frame_0066.jpg ---
+ee2@ Python 3.7.0 Shell
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in List")
+
+Item not in list
+>>> def funcQ):
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func();funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+printC"New Person")
+
+>>> p = Person)
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+>>> | iN
+
+Ln: 180 Col: 4
+
+--- frame_0067.jpg ---
+( Be *Python 3.7.0 Shell*
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def func):
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func();funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+printC"New Person")
+
+>>> p = Person)
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+>>> lk
+
+Ln: 180 Col: 4
+
+--- frame_0068.jpg ---
+e2e®e@ *Python 3.7.0 Shell*
+>>>
+>>> try:
+print(b[2])
+except IndexError:
+printC"Item not in List")
+
+Item not in list
+>>> def func):
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func();funcQ)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+printC"New Person")
+
+>>> p = Person()
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+>>> class Francis(Pab
+
+Ln: 180 Col: 20
+
+--- frame_0069.jpg ---
+( Be *Python 3.7.0 Shell*
+print(b[2])
+
+except IndexError:
+printC"Item not in List")
+
+Item not in list
+>>> def func():
+printC"Hello World")
+
+>>> func)
+
+Hello World
+
+>>> func();funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+printC"New Person")
+
+BE
+>>> p = Person)
+New Person
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+>>> class Francis(Person):
+def __init__(self):
+print
+
+Ln: 182 Col: 7
+
+--- frame_0070.jpg ---
+eee *Python 3.7.0 Shell*
+except IndexError:
+printC"Item not in list")
+
+Item not in list
+>>> def funcQ):
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func();funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+printC("New Pdrson")
+
+>>> p = Person()
+New Person
+>>> p
+<__main__.Person object at Qx1118dac88>
+>>> class Francis(Person):
+def __init__(self):
+super(Q).__init
+print("My name is Francis")
+
+Ln: 182 Col: 16
+
+--- frame_0071.jpg ---
+eae Python 3.7.0 Shell
+
+Item not in list
+>>> def func():
+printC"Hello World")
+
+>>> func)
+
+Hello World
+
+>>> func();funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+printC"New Person")
+
+>>> p = Person)
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+
+>>> class Francis(Person):
+
+def hinit__Cself):
+
+super().__init_.C
+printC"My name is Francis")
+
+>>>
+
+Ln: 186 Col: 4
+
+--- frame_0072.jpg ---
+eee Python 3.7.0 Shell
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func();funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+print("New Person")
+
+>>> p = Person()
+
+New Person
+
+>>> p
+
+<_.main__.Person object at Qx1118dac88>
+
+>>> class Francis(Person):
+
+def __init__(self):
+
+super().__init__Q
+printC"My name is Francis")
+
+>>> f = FrancisQ)
+New Person
+
+My name is Francis
+>>>
+
+Ln: 189 Col: 4
+
+--- frame_0073.jpg ---
+eee *Python 3.7.0 Shell*
+printC"Hello World")
+
+>>> func()
+
+Hello World
+
+>>> func();funcd)
+
+Hello World
+
+Hello World
+
+>>> class Person:
+
+def __init__(self):
+printC"New Person")
+
+>>> p = Person)
+
+New Person
+
+>>> p
+
+<_.main__.Person object at Qx1118dac88>
+
+>>> class Francis(Person):
+
+def __init__(self):
+
+super().__init_.Q
+printC"My name is Francis")
+
+>>> f = FrancisQ)
+New Person
+
+My name is Francis
+>>> import mat
+
+Ln: 189 Col: 14
+
+--- frame_0074.jpg ---
+eee
+>>> func()
+Hello World
+>>> func); funcO
+Hello World
+Hello World
+>>> Class Person:
+def __init__(self):
+printC"New Person")
+
+>>> p = Person()
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+
+>>> class Francis(Person):
+
+def __init__(self):
+
+super().__init_.©O
+printC"My name is Francis")
+
+>>> f = FrancisQ
+New Person
+
+My name is Francis
+>>> import math
+>>> printCmath.pi)
+3.141592653589793
+
+*Python 3.7.0 Shell*
+
+Ln: 191
+
+Col: 17
+
+--- frame_0075.jpg ---
+ese Python 3.7.0 Shell
+>>> func()
+Hello World
+>>> func); funcO
+Hello World
+Hello World
+>>> class Person:
+
+def __init__(self):
+
+print("New Person")
+
+>>> p = Person()
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+
+>>> class Francis(Person):
+
+def __init__(self):
+
+super().__init_.O
+printC"My name is Francis")
+
+>>> f = FrancisQ
+New Person
+
+My name is Francis
+>>> import math
+>>> print (f@enrs. >
+3.141592653589793
+
+>>>
+
+Ln: 184 Col: 0
+
+--- frame_0076.jpg ---
+ese Python 3.7.0 Shell
+>>> func()
+Hello World
+>>> func); funcO
+Hello World
+Hello World
+>>> class Person:
+
+def __init__Cself):
+
+print("New Person")
+
+>>> p = Person()
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+
+>>> class Francis(Person):
+
+def __init__(self):
+
+super().__init_.©O
+printC"My name is Francis")
+
+>>> f = FrancisC
+
+New Person
+
+My name is Francis
+
+>>> import math r
+>>> print(
+3.141592653589793
+
+>>>
+
+Ln: 190 Col: 17
+
+--- frame_0077.jpg ---
+eee Python 3.7.0 Shell
+>>> func()
+Hello World
+>>> func); funcQ
+Hello World
+Hello World
+>>> Class Person:
+
+def __init__Cself):
+
+printC("New Person")
+
+>>> p = Person()
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+
+>>> class Francis(Person):
+
+def __init__(self):
+
+super().__init_.©O
+printC"My name is Francis")
+
+>>> f = FrancisC
+
+New Person
+
+My name is Francis
+
+>>> import math r
+>>> print(
+3.141592653589793
+
+>>>
+
+Ln: 190 Col: 17
+
+--- frame_0078.jpg ---
+eee Python 3.7.0 Shell
+>>> func)
+Hello World
+>>> func); funcQ
+Hello World
+Hello World
+>>> class Person:
+
+def __init__(self):
+
+printC("New Person")
+
+>>> p = Person()
+
+New Person
+
+>>> p
+
+<__main__.Person object at Qx1118dac88>
+
+>>> class Francis(Person):
+
+def __init__(self):
+
+super().__init_.©O
+printC"My name is Francis")
+
+>>> f = FrancisQ)
+
+New Person
+
+My name is Francis
+
+>>> import math Ls
+>>> print(
+
+3.141592653589793
+
+>>>
+
+Ln: 190 Col: 17
